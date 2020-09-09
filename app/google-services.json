@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118813017002",
+    "firebase_url": "https://fir-123-b88db.firebaseio.com",
+    "project_id": "fir-123-b88db",
+    "storage_bucket": "fir-123-b88db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118813017002:android:8775dffd6935051bade1d3",
+        "android_client_info": {
+          "package_name": "com.hanish.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118813017002-81kq682n4o31pfq4js4q16n2prohvug4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRU099yuVM0K784gD1hlekr6TKp8Df3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118813017002-81kq682n4o31pfq4js4q16n2prohvug4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
